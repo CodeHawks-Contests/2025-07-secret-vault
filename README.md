@@ -1,4 +1,4 @@
-# First Flight #45: SecretVault
+# First Flight #45: Secret Vault on Aptos
 
 
 ## Contest Details
