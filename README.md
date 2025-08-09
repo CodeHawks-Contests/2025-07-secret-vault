@@ -1,9 +1,9 @@
-# First Flight #45: Secret Vault on Aptos
+# First Flight #46: Secret Vault on Aptos
 
 
 ## Contest Details
 
-Starts: July 31, 2025 Noon UTC
+Starts: August 14, 2025 Noon UTC
 
 Ends: August 06, 2025 Noon UTC
 
