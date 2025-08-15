@@ -97,8 +97,6 @@ aptos move test
 
 [//]: # (known-issues-open)
 
-<p align="center">
 No known issues reported.
-</p>
 
 [//]: # (known-issues-close)
