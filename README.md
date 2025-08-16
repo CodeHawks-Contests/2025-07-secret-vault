@@ -5,7 +5,7 @@
 
 Starts: August 14, 2025 Noon UTC
 
-Ends: August 06, 2025 Noon UTC
+Ends: August 21, 2025 Noon UTC
 
 ### Stats
 - nSLOC: 30
